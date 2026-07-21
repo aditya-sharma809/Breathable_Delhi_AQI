@@ -25,6 +25,7 @@ Air Quality Index (AQI) monitoring forms the bedrock of environmental health pol
 ## 🖥️ Executive Analytics Dashboard
 
 ![AQI Analytics Dashboard](Screenshot%202026-07-12%20160256.png)
+view live dashboard here (https://datastudio.google.com/reporting/b7125a85-41bc-4bb7-b145-d720d148edf0)
 
 ### ❓ Key Questions Answered by the Dashboard:
 
